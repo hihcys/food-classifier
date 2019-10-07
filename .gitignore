@@ -1,0 +1,7 @@
+*.exe
+*.log
+app/main
+app/food-classifier
+*.sh
+*.bat
+*.yml
